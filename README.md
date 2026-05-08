@@ -42,6 +42,7 @@ Evaluate the trained model on the test set using accuracy score. The model typic
 
 
 **Key Findings**
+
 •	Women had a significantly higher survival rate than men (approx. 74% vs 19%)
 
 •	1st class passengers survived more than 2nd and 3rd class passengers
